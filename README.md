@@ -41,31 +41,9 @@ I am an electrical and electronics engineer.
 - Python 3.7+
 - Standard Python libraries: `heapq`, `collections`
 
-## Usage
-1. Clone the repository:
-```bash
-git clone https://github.com/YourUsername/huffman-coding-data-compression.git
-cd huffman-coding-data-compression
-```
-2. Run the script:
-```bash
-python huffman_coding.py
-```
-3. Follow the prompts to input text and see the results.
-
-## Future Enhancements
-- Add file compression and decompression support.
-- Visualize the Huffman Tree for better understanding.
-- Optimize the implementation for larger datasets.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contributions
-Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
 
 ## Acknowledgments
 - Huffman Coding Algorithm: [Wikipedia](https://en.wikipedia.org/wiki/Huffman_coding)
 
-Happy coding! 🚀
+
 
